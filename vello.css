@@ -1,0 +1,282 @@
+html,
+body {
+    margin:0;
+    padding:0;
+    color:#000;
+
+    background:white;
+}
+
+
+#body {
+    width:960px;
+    margin:0 auto;
+    background:white;
+}
+
+
+#main {
+	height: 100%;
+
+}
+
+#header {
+	padding:10px;
+    background-image: url(bildes/Broncks_raw.jpg);
+    background-repeat: no-repeat;
+    background-size: 115%;
+    background-position: -60px 0px;
+}
+
+
+
+#head2 {
+padding:30px;
+background-color: grey;
+margin-top: 5px;
+margin-bottom: 5px;
+text-align: center;
+
+}
+
+
+#head3 {
+padding:30px;
+background-color: grey;
+margin-top: 5px;
+margin-bottom: 5px;
+text-align: center ;
+height: 10px;
+}
+
+
+
+
+
+#content-1 {
+	float:left;
+    width:220px;
+    padding:10px;
+    background:white;
+}
+
+
+#content-2 {
+
+    float:right;
+    width:720px;
+}
+
+#content-2-1 {
+    float:left;
+	width:460px;
+	height: 450px;
+    padding:10px;
+    background-image: url(bildes/Fonz.png);
+    background-repeat: no-repeat;
+    background-position: -40px -10px; 
+
+}
+#content-2-2 {
+
+    float:right;
+    width:220px;
+    padding:10px;
+    background:white;
+}
+#footer {
+	color: white;
+    clear:both;
+    padding:30px;
+    background:#ff9;
+    background-image: url(bildes/Broncks_raw.jpg);
+    background-repeat: no-repeat;
+    background-size: 115%;
+    background-position: -140px -550px; 
+}
+
+#forma {
+	float:right;
+    color: white;
+    margin-top: -20px;
+
+
+}
+
+
+#forma2 {
+
+    color: white;
+    margin-top: -10px;
+
+
+}
+
+
+#kontakti_footer {
+	margin-top: 10px;
+	margin-left: 20px;
+
+}
+
+
+a:link {
+	color: black; 
+	text-decoration: none;
+}
+
+a:visited {
+	color: black; 
+	text-decoration: none;
+}
+
+a:hover {
+	color: #FF9900;
+
+}
+
+a.active {
+    color: #FF9900;
+    font-size: 100%;
+}
+
+
+
+#h1{
+	font-size: 170%;
+	margin-left: 10px;
+}
+
+#h2{
+
+	margin-top: 20px;
+	font-size: 100%;
+}
+
+
+
+#reg{
+    margin-top: 50px;
+    margin-left: 525px;
+
+}
+
+#izr{
+    margin-top: 70px;
+    margin-left: 525px;
+
+}
+
+
+#username{
+    color: white;
+
+}
+
+#veikmigaaut{
+color: white;
+margin-top: -20px;
+
+}
+
+
+#contentbox{
+height:80px;
+}
+
+#aprakstsbox{
+height:80px;
+}
+
+#descriptionbox{
+height:50px;
+
+    
+}
+
+/* rss.xml  style */
+
+
+chtitle{
+   display:block;
+   color:#FFF;
+   border-bottom:1px solid black;
+   font-weight:bold;
+   font-size:140%;
+   background-color:#2f7090;
+   margin:0.9em;
+   
+
+}
+
+chdescription{
+   display:block;
+   float:left;
+   font-size:130%;
+   font-weight:bold;
+   margin:0.9em;
+}
+
+channel{
+    display: block;
+}
+
+item{
+   background-color:#FFFFEE;
+   border:1px solid #538622;
+   clear:both;
+   display:block;
+   padding:0 0 0.5em;
+   margin:1em;
+}
+
+title{
+   background-color:#38a15f;
+   border-bottom-width:0;
+   color:#FFF;
+   display:block;
+   font-size:110%;
+   font-weight:bold;
+   margin:0;
+   padding:0.3em 0.5em;
+}
+
+link{
+   color:#666;
+   display:block;
+   font-size:86%;
+   padding:0 0.5em;
+}
+
+description{
+  display: block;
+   float:none;
+   margin:0;
+   text-align: left;
+   padding:0.2em 0.5em 0.4em;
+   color: black;
+   font-size:100%;
+   font-weight:normal;
+}
+
+ceontent{
+  display: block;
+   float:none;
+   margin:0;
+   text-align: left;
+   padding:0.2em 0.5em 0.4em;
+   color: black;
+   font-size:100%;
+   font-weight:normal;
+}
+
+date{
+
+   color:#666;
+   display:block;
+   font-size:86%;
+   padding:0 0.5em;
+}
+
+
+

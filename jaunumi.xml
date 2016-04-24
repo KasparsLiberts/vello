@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <?xml-stylesheet href="vello.css"?>
+    <rss version="2.0">
+    <channel>
+    <chtitle> Vello jaunumi </chtitle>
+    <chdescription> Vello jaunumi par un ap vello lietām </chdescription>
+    <item>
+        <title></title>
+        <description></description>
+        <link></link>
+        <date>2016-02-14 20:19:56</date>
+        </item>
+        <item>
+        <title>Jūnija konkurss </title>
+        <description>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s</description>
+        <link>http://localhost:8888/vello/Jaunumi.php</link>
+        <date>2016-02-14 19:55:08</date>
+        </item>
+        <item>
+        <title>Mūsu veikalā jauns testa stends..</title>
+        <description>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s</description>
+        <link>http://localhost:8888/vello/Jaunumi.php</link>
+        <date>2016-02-14 19:45:30</date>
+        </item>
+        <item>
+        <title>Jauns pakalpojums</title>
+        <description>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s</description>
+        <link>http://localhost:8888/vello/Jaunumi.php</link>
+        <date>0000-00-00 00:00:00</date>
+        </item>
+        <item>
+        <title>Vello kommandas uzvara </title>
+        <description>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s</description>
+        <link>http://localhost:8888/vello/Jaunumi.php</link>
+        <date>0000-00-00 00:00:00</date>
+        </item>
+        <item>
+        <title>Drīz atvērsim jaunu veikalu Sporta ielā 3.</title>
+        <description>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s</description>
+        <link>http://localhost:8888/vello/Jaunumi.php</link>
+        <date>0000-00-00 00:00:00</date>
+        </item>
+        <item>
+        <title>Tagad seko mums arī sociālajos tīklos Twiter un Facebook.</title>
+        <description>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s</description>
+        <link>http://localhost:8888/vello/Jaunumi.php</link>
+        <date>0000-00-00 00:00:00</date>
+        </item>
+        </channel>
+    </rss>
+    
